@@ -1,0 +1,14 @@
+cat vs Zipkin vs Skywalking
+
+点评 cat 
+Twitter Zipkin
+Apache Skywalking
+
+
+都支持调用链可视化
+
+聚合报表 CAT 非常丰富 zipkin 少  Skywalking 较丰富
+
+服务依赖图  cat & zipkin简单 skywalking 好
+
+埋点方式  cat&zipkin 侵入代码， skywalking 非侵入
